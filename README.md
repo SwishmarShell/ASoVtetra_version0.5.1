@@ -1,6 +1,6 @@
 # ASoVtetra_v0.5.1 REDME
 
-- English version is available here: [README.en.md](http://readme.en.md/)
+- English version is available here: [EN_REDME.md](http://readme.en.md/)
 - Download
 You can download the latest version from the Releases page:
 [https://github.com/SwishmarShell/ASoVtetra_version0.5.1/releases/latest](https://github.com/SwishmarShell/ASoVtetra_version0.5.1/releases/latest)<br><br>
