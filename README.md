@@ -15,8 +15,9 @@ You can download the latest version from the Releases page:
 
 ## 本バージョンの機能
 
-- PNG画像を、読み込み、Windows のデスクトップの画面に描画します。
-（PNG画像のビットの深さ：３２bit 推奨）
+- PNG画像を、読み込み、Windows のデスクトップの画面に描画します。<br>
+（PNG画像のビットの深さ：３２bit 推奨）<br>
+
 - レイヤー式に、複数のPNG画像を、読み込むことが出来ます。<br>
 <br>
 
