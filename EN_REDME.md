@@ -70,8 +70,8 @@ Folder structure:
 >             　/ layers<br>
 >             　　/ layer(PNG_FileName).png<br>
 >             　※ All referenced images are copied to a single folder for easier management.
-> <br>
-
+>             　※ The “bitmaps” folder is empty for now, but it’s generated in preparation for future enhancements.
+> 
 ### 6. Load Project
 Click **“Load Project”** and select a saved project folder.
 - All layers and PNGs are restored.
