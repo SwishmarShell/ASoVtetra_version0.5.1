@@ -64,6 +64,7 @@ You can download the latest version from the Releases page:
 >             　/ layers<br>
 >             　　/ layer(PNG_FileName).png<br>
 >             　※ 参照先の各画像は、ひとつのフォルダに、コピーされます。<br>
+>             　※ ’bitmaps’ フォルダーは、空ですが、今後のバージョンアップのために出力しています。<br>
 > <br>
 - **”Load Project” ボタン** で、保存した、任意フォルダを指定し、読み込む。<br>
 > + すべての、レイヤーの構成と、各PNG画像が再現される。<br>
