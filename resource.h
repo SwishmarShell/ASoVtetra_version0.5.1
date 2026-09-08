@@ -1,0 +1,61 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ で生成されたインクルード ファイル。
+// Resource.rc で使用
+//
+
+#define IDD_SETTINGS        200
+#define IDC_BTN_HEADNORMAL  1001
+#define IDC_BTN_EYEL_OPEN   1002
+#define IDC_BTN_EYER_OPEN   1003
+#define IDC_BTN_EAR         1004
+#define IDC_BTN_SAVE        1100
+
+#define IDC_SLIDER_EAR_MOVE		2001
+#define IDC_SLIDER_BROW_UP		2002
+#define IDC_SLIDER_FACE_MOVE	2003
+
+#define IDC_EDIT_EAR_MOVE		2101
+#define IDC_EDIT_BROW_UP		2102
+#define IDC_EDIT_FACE_MOVE		2103
+
+#define IDC_SLIDER_PIVOT_EARRING_X	3001
+#define IDC_SLIDER_PIVOT_EARRING_Y	3002
+#define IDC_SLIDER_PIVOT_BROW_LX	3003
+#define IDC_SLIDER_PIVOT_BROW_LY	3004
+
+#define IDC_TXT_PIVOT_EARRING_X		4001
+#define IDC_TXT_PIVOT_EARRING_Y		4002
+#define IDC_TXT_PIVOT_BROW_LX		4003
+#define IDC_TXT_PIVOT_BROW_LY		4004
+
+#define IDC_LIST_PRESETS		5001
+#define IDC_BTN_PRESET_SAVE		5002
+#define IDC_BTN_PRESET_LOAD		5003
+#define IDC_BTN_PRESET_DELETE	5004
+#define IDC_BTN_PRESET_EXPORT	5005
+#define IDC_BTN_PRESET_IMPORT	5006
+
+#define IDD_INPUT_NAME        6000
+#define IDC_EDIT_PRESET_NAME  6001
+
+#define IDC_LAYER_PANEL 7000
+#define IDC_BTN_ADD_LAYER 7100
+
+#define IDC_BTN_SAVE_ZIP   8200
+#define IDC_BTN_LOAD_ZIP   8201
+
+#define IDC_LOAD_SAVING_TEXT 9000
+
+
+#define IDD_DIALOG1                     101
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        103
+#define _APS_NEXT_COMMAND_VALUE         40001
+#define _APS_NEXT_CONTROL_VALUE         1001
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif
